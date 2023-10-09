@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tudor Iustin</h1>
-<h3 align="center">A passionate frontend developer from United Kingdom</h3>
+<h3 align="center">A passionate Machine Learning and AI Engineer</h3>
 
-- 🔭 I’m currently working on **Pinterest Clone**
+- 🔭 I’m currently working on **GioLabs.ai Artificial Inteligence Programs**
 
 - 🌱 I’m currently learning **Advanced React Native and CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tudoriustin-giolabs/frontend-projects](https://github.com/tudoriustin-giolabs/frontend-projects)
+- 👨‍💻 All of my projects are available at [https://github.com/tudoriustin-giolabs/frontend-projects](https://github.com/tudoriustin-giolabs/projects)
 
 - 📝 I regularly write articles on [LinkedIN](LinkedIN)
 
